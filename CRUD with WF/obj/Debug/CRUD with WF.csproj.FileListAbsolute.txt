@@ -1,0 +1,16 @@
+C:\Users\josep\OneDrive\Escritorio\CRUD with WF\CRUD with WF\bin\Debug\CRUD with WF.exe.config
+C:\Users\josep\OneDrive\Escritorio\CRUD with WF\CRUD with WF\bin\Debug\CRUD with WF.exe
+C:\Users\josep\OneDrive\Escritorio\CRUD with WF\CRUD with WF\bin\Debug\CRUD with WF.pdb
+C:\Users\josep\OneDrive\Escritorio\CRUD with WF\CRUD with WF\obj\Debug\CRUD with WF.csproj.AssemblyReference.cache
+C:\Users\josep\OneDrive\Escritorio\CRUD with WF\CRUD with WF\obj\Debug\CRUD_with_WF.Properties.Resources.resources
+C:\Users\josep\OneDrive\Escritorio\CRUD with WF\CRUD with WF\obj\Debug\CRUD with WF.csproj.GenerateResource.cache
+C:\Users\josep\OneDrive\Escritorio\CRUD with WF\CRUD with WF\obj\Debug\CRUD with WF.csproj.CoreCompileInputs.cache
+C:\Users\josep\OneDrive\Escritorio\CRUD with WF\CRUD with WF\obj\Debug\CRUD with WF.exe
+C:\Users\josep\OneDrive\Escritorio\CRUD with WF\CRUD with WF\obj\Debug\CRUD with WF.pdb
+C:\Users\josep\OneDrive\Escritorio\CRUD with WF\CRUD with WF\bin\Debug\EntityFramework.dll
+C:\Users\josep\OneDrive\Escritorio\CRUD with WF\CRUD with WF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\josep\OneDrive\Escritorio\CRUD with WF\CRUD with WF\bin\Debug\EntityFramework.xml
+C:\Users\josep\OneDrive\Escritorio\CRUD with WF\CRUD with WF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\josep\OneDrive\Escritorio\CRUD with WF\CRUD with WF\obj\Debug\CRUD_with_WF.Form1.resources
+C:\Users\josep\OneDrive\Escritorio\CRUD with WF\CRUD with WF\obj\Debug\CRUD with WF.csproj.CopyComplete
+C:\Users\josep\OneDrive\Escritorio\CRUD with WF\CRUD with WF\obj\Debug\CRUD_with_WF.Presentacion.FrmTabla.resources
